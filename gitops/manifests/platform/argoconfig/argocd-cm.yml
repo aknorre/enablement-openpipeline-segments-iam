@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://cuddly-space-barnacle-w5r6q6qpw5pfg695-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://cuddly-space-barnacle-w5r6q6qpw5pfg695-30100.app.github.dev"  
