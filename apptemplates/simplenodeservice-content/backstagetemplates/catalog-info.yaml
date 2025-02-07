@@ -19,7 +19,7 @@ metadata:
       icon: subject
     - title: View in ArgoCD
       icon: catalog
-      url: https://cuddly-space-barnacle-w5r6q6qpw5pfg695-ARGOCD_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+      url: https://cuddly-space-barnacle-w5r6q6qpw5pfg695-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
     - title: View in Dynatrace
       icon: catalog
       url: https://ozd22885.apps.dynatrace.com
